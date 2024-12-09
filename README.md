@@ -1,6 +1,3 @@
-Berikut adalah README.md singkat untuk proyek Bookshelf API Anda:
-
----
 
 # 📚 Bookshelf API
 
